@@ -21,6 +21,7 @@ def check_if_strings_ok(userStrings):
         return None
  
     return splitedStrings
+
 # Function which check if entered stings are a anagrams
 def are_anagrams(str1, str2, str3):
     # Set all entered strings in one list
